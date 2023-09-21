@@ -12,3 +12,10 @@ This video offers a good visual explanation of the introductory concepts of cybe
 
 [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn] (https://www.youtube.com/watch?v=inWWhr5tnEA&t=22s)-------
 This video offers a good explanation of the types of cyberattacks. As well as the security measures to prevent the attacks. 
+
+[Linux Directories Explained in 100 Seconds] (https://www.youtube.com/watch?v=42iQKuQodW4)
+This video offers a good and simple explaination of Linux Directory. As well as, visual representation of Filesystem hierarchy. 
+
+
+[Files & File Systems: Crash Course Computer Science #20] (https://www.youtube.com/watch?v=HbgzrKJvDRw)
+This operating system crash course offer a simple explaination on file directory system. Also, how files being organized in a Linux system. 
