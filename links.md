@@ -21,3 +21,10 @@ This video offers a good and simple explaination of Linux Directory. As well as,
 
 [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 This operating system crash course offer a simple explaination on file directory system. Also, how files being organized in a Linux system. 
+
+[Week05: Addressing, Shared Lib, and Pointers](https://www.youtube.com/watch?v=aQgyZGd1MhY)
+This is Operating System for Information System courses uses the same slides as used in the operating system course. This lecture explain as well as demonstrate the use of pointer and addressing
+
+[you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+This video show what pointer is, applied in low memory access. Also it talks about pointer syntax in C programming languages. 
+
