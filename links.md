@@ -28,3 +28,5 @@ This is Operating System for Information System courses uses the same slides as 
 [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
 This video show what pointer is, applied in low memory access. Also it talks about pointer syntax in C programming languages. 
 
+[Kernel Panic Wikipedia Page](https://en.wikipedia.org/wiki/Kernel_panic)
+This article shows thorough explaination about the Kernel Panic which include its history, causes, and its application to the operation systems specifics
