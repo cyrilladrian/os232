@@ -30,3 +30,9 @@ This video show what pointer is, applied in low memory access. Also it talks abo
 
 [Kernel Panic Wikipedia Page](https://en.wikipedia.org/wiki/Kernel_panic)
 This article shows thorough explaination about the Kernel Panic which include its history, causes, and its application to the operation systems specifics
+
+[Operating Systems Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
+This article shows explaination about threads, several mechanisms related to them like mutexes and conditional variable.
+
+[Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
+This GeeksforGeeks article explains about few concepts regarding concurrency such as its issue, problems, drawbacks, advantages, etc
