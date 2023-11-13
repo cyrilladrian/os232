@@ -36,3 +36,7 @@ This article shows explaination about threads, several mechanisms related to the
 
 [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
 This GeeksforGeeks article explains about few concepts regarding concurrency such as its issue, problems, drawbacks, advantages, etc
+
+
+[Introduction to Synchronization of a Process](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+This GeeksforGeeks article is a guide to synchronization. It explains about the race condition and critical section problem.
